@@ -21,8 +21,6 @@ This challenge was to build an API for a social network web application where us
 
 - Mongoose: A MongoDB object modeling for Node.js.
 
-- Day.js: A JavaScript library for parsing, validating, and displaying dates and times.
-
  
 ## Usage
 
