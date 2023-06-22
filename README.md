@@ -32,6 +32,8 @@ This challenge was to build an API for a social network web application where us
   
 ## Screenshot
 
+![Capture](https://github.com/hutgib2/19-Social-Media-API/assets/122771065/5036aa52-f466-482c-9a89-ccd09f0671cc)
+
 ## Links
 
 Video demo :
